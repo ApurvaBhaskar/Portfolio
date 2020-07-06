@@ -1,0 +1,416 @@
+
+<!DOCTYPE HTML>
+<html lang="en">
+<head>
+	<title>Apurva Chandra Bhaskar</title>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+	<meta charset="UTF-8">
+	
+	
+	<!-- Font -->
+	
+	<link href="https://fonts.googleapis.com/css?family=Poppins:400,500,600,700%7CAllura" rel="stylesheet">
+	
+	<!-- Stylesheets -->
+	
+	<link href="common-css/bootstrap.css" rel="stylesheet">
+	
+	<link href="common-css/ionicons.css" rel="stylesheet">
+	
+	<link href="common-css/fluidbox.min.css" rel="stylesheet">
+	
+	<link href="portfolio/css/styles.css" rel="stylesheet">
+	
+	<link href="portfolio/css/responsive.css" rel="stylesheet">
+	
+</head>
+<body>
+    <header>
+                    <a class="downlad-btn" href="https://drive.google.com/file/d/1-IASmoQbcfj5ecLfFKvYkm9tGyGyBjqS/view?usp=sharing">View Resume</a>
+                    </div><!-- container -->
+    </header>
+	
+	<section class="intro-section">
+		<div class="container">
+			<div class="row">
+				<div class="col-md-1 col-lg-2"></div>
+				<div class="col-md-10 col-lg-8">
+					<div class="intro">
+						<div class="profile-img"><img src="images/profile image.jpg" alt=""></div>
+						<h2><b>Apurva Chandra Bhaskar</b></h2>
+						<h4 class="font-yellow"></h4>
+						<ul class="information margin-tb-30">
+							<li><b>BORN : </b>July 15, 1999</li>
+							<li><b>EMAIL : </b>apurvabhaskar2345@gmail.com</li>
+						</ul>
+						<ul class="social-icons">
+							<li><a href="https://www.linkedin.com/in/apurva-bhaskar-bb0584181/"><i class="ion-social-linkedin"></i></a></li>
+                            <li><a href="https://github.com/ApurvaBhaskar"><i class="ion-social-github"></i></a></li>
+						</ul>
+					</div><!-- intro -->
+				</div><!-- col-sm-8 -->
+			</div><!-- row -->
+		</div><!-- container -->
+	</section><!-- intro-section -->
+	
+	<section class="about-section section">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4">
+					<div class="heading">
+						<h3><b>About me</b></h3>
+						<h6 class="font-lite-black">PROFESSIONAL PATH</h6>
+					</div>
+				</div><!-- col-sm-4 -->
+				<div class="col-sm-8">
+					<p class="margin-b-50">I am a pre-final year undergraduate pursuing Bachelor of Technology in Computer Science
+                        Engineering from SRM Institute of Science and Technology. I am a quick learner with an insatiable appetite
+                        for all things tech, with an even stronger desire to share every bit of what I know, with people who might 
+                        benefit from it. I am a budding polymath, with the ability to adapt in the new environment quickly. 
+                        I am self-directed and wish to use my technical know-how to benefit other people and organizations.</p>
+					
+					<div class="row">
+					
+					</div><!-- row -->
+				</div><!-- col-sm-8 -->
+			</div><!-- row -->
+		</div><!-- container -->
+    </section><!-- about-section -->
+    
+    <img src="images/slider-4-1920x600.png">
+
+
+    <section class="skills-section section">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-8 center-text">
+                    <div class="heading">
+                        <h3><b>Technical Skills</b></h3>
+                        <h6 class="font-lite-black"><b>I'M GOOD AT</b></h6>
+                    </div>
+                </div>
+                <div class="col-sm-8 col-md-6">
+                    <h4><b>Data Science</b></h4>
+                    <h6 class="expert">Excel</h6>
+                    &nbsp; <h6 class="expert">Jupyter</h6>
+                    <p class="margin-tb-30">I am good in data science using Excel and built many of my projects on Jupyter Notebook and currently working on improving
+                        my skillset and learning more about these tools. </p>
+                </div>
+
+                <div class="col-sm-8 col-md-6">
+                    <h4><b>Machine Learning</b></h4>
+                    <h6 class="expert">Regression</h6>
+                    &nbsp; <h6 class="expert">Clustering</h6>
+                    &nbsp; <h6 class="expert">Classification</h6>
+                    <p class="margin-tb-30">I have an intermediate level proficiency in Machine Learning and its models and
+                        currently working on expanding my skillset.
+                    </p>
+                </div>
+
+                <div class="col-sm-8 col-md-6">
+                    <h4><b>Data Visualization</b></h4>
+                    <h6 class="expert">Tableau</h6>
+                    &nbsp;<h6 class="expert">Power BI</h6>
+                    <p class="margin-tb-30">I have an intermediate level proficiency and have built projects on Tableau 
+                        and currently working on expanding my skillset to Power BI. </p>
+                </div>
+
+                <div class="col-sm-8 col-md-6">
+                    <h4><b>Databases</b></h4>
+                    <h6 class="expert">MongoDB</h6>
+                    &nbsp; <h6 class="expert">MySQL</h6>
+                    <p class="margin-tb-30">I have a fairly good knowledge of working with both Database Management Systems,
+                        and connecting them to a Java file using JDBC and also connecting them to a Python Script using PyMongo and SQLAlchemy. </p>
+                </div>
+
+                <div class="col-sm-8 col-md-6">
+                    <h4><b>Web Development</b></h4>
+                    <h6 class="expert">HTML</h6>
+                    &nbsp; <h6 class="expert">CSS</h6>
+                    &nbsp; <h6 class="expert">JavaScript</h6>
+                    &nbsp; <h6 class="expert">PHP</h6>
+                    <p class="margin-tb-30">A beginner in Web Development, I am learning to create responsive
+                        webpages, with a crisp UI. I have familiarised myself with the basics, and working on gaining more skills
+                        such as JQuery, Bootstrap.</p>
+                </div>
+
+                <div class="col-sm-8 col-md-6">
+                    <h4><b>App Development</b></h4>
+                    <h6 class="expert">Native Android App</h6>
+                    &nbsp;<h6 class="expert">Flutter</h6>
+                    <p class="margin-tb-30">I have beginner level proficiency in native Android App Development using Java
+                        and currently working on expanding my skillset to Flutter as well. </p>
+                </div>
+                
+                <div class="col-sm-8 col-md-6">
+                    <h4><b>Programming Concepts</b></h4>
+                    <h6 class="expert">Data Structures</h6>
+                    &nbsp; <h6 class="expert">Algorithms</h6>
+                    <p class="margin-tb-30"></p>
+                </div>
+
+                <div class="col-sm-8 col-md-6">
+                    <h4><b>Programming Languages</b></h4>
+                    <h6 class="expert">C++</h6>
+                    &nbsp; <h6 class="expert">Python</h6>
+                    &nbsp; <h6 class="expert">R</h6>
+                    &nbsp; <h6 class="expert">Java</h6>
+                    &nbsp; <h6 class="expert">C</h6>
+                    <p class="margin-tb-30"></p>
+                </div>
+            </div>
+        </div>
+    </section>
+    <br><p>ss</p>
+	
+	<section class="experience-section section">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4">
+					<div class="heading">
+						<h3><b>Work Experience</b></h3>
+						<h6 class="font-lite-black">PREVIOUS INTERNSHIP</h6>
+					</div>
+				</div><!-- col-sm-4 -->
+				<div class="col-sm-8">
+				
+					<div class="experience margin-b-50">
+					        <h4><b>Summer Intern</b></h4>
+					        <h5 class="font-yellow"><b>Hewlett Packard Enterprise India Pvt Ltd (HPE)</b></h5>
+					        <h6 class="margin-t-10">JUNE 2019-JUNE 2019</h6>
+					        <p class="font-semi-white margin-tb-30">Worked with the database team to keep track of servers and
+					            database of various clients.
+					            Visited data centers of Ericsson India, UIDAI. </p>
+					</div><!-- experience -->
+					
+				</div><!-- col-sm-8 -->
+			</div><!-- row -->
+		</div><!-- container -->
+		
+	</section><!-- experience-section -->
+	
+	<section class="education-section section">
+		<div class="container">
+			<div class="row">
+				<div class="col-sm-4">
+					<div class="heading">
+						<h3><b>Education</b></h3>
+						<h6 class="font-lite-black">ACADEMIC CAREER</h6>
+					</div>
+				</div><!-- col-sm-4 -->
+				<div class="col-sm-8">
+					<div class="education-wrapper">
+						<div class="education margin-b-50">
+							<h4><b>Bachelor of Technology in Computer Science Enginnering</b></h4>
+							<h5 class="font-yellow"><b>SRM Institute of Science and Technology</b></h5>
+							<h6 class="font-lite-black margin-t-10">2017-2021</h6>
+							<p class="margin-tb-30">CGPA - 7.60/10 </p>
+						</div><!-- education -->
+						
+						<div class="education margin-b-50">
+							<h4><b>Senior Secondary</b></h4>
+							<h5 class="font-yellow"><b>N.K.Bagrodia Public School</b></h5>
+							<h6 class="font-lite-black margin-t-10">Completed in 2017</h6>
+							<p class="margin-tb-30">Percentage - 86%</p>
+						</div><!-- education -->
+						
+						<div class="education margin-b-50">
+							<h4><b>Secondary</b></h4>
+							<h5 class="font-yellow"><b>N.K.Bagrodia Public School</b></h5>
+							<h6 class="font-lite-black margin-t-10">Completed in 2015</h6>
+							<p class="margin-tb-30">CGPA - 9.4/10 </p>
+						</div><!-- education -->
+					</div><!-- education-wrapper -->
+				</div><!-- col-sm-8 -->
+			</div><!-- row -->
+		</div><!-- container -->
+		
+    </section>
+     
+    <section class="experience-section section">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-4">
+                    <div class="heading">
+                        <h3><b>Projects</b></h3>
+                        <h6 class="font-lite-black">I'VE WORKED ON</h6>
+                    </div>
+                </div><!-- col-sm-4 -->
+                <div class="col-sm-8">
+
+                    <div class="experience margin-b-50">
+                        <h4>Stock Price Predictor</h4>
+                        <h5 class="font-yellow">Linear Regression, Jupyter Notebook, Azure Notebook</h5>
+                        <p class="font-semi-white margin-tb-30">A simple model which gives the next day's opening price
+                            of the selected stock using Linear Regression in ML.</p>
+                        <h6 class="margin-t-10"><a class="anchor"
+                                href="https://github.com/ApurvaBhaskar/Stock-Price-Prediction">View Project</a></h6>
+
+                    </div><!-- experience -->
+
+                    <div class="experience margin-b-50">
+                        <h4>Classification of Handwritten Digits using Google Tensorflow with Python</h4>
+                        <h5 class="font-yellow">Tensorflow, Jupyter Notebook</h5>
+                        <p class="font-semi-white margin-tb-30">An Artificial Neural Network to tackle the recognition
+                            of human handwritten digits.
+                            The ANN proposed here is experimented on the well-known MNIST data set. Without any
+                            preprocessing of the dataset,
+                            our ANN achieves quite low classification error. </p>
+                        <!--<h6 class="margin-t-10"><a class="anchor" href="#">View Project</a></h6>-->
+
+                    </div><!-- experience -->
+
+                    <div class="experience margin-b-50">
+                        <h4>Car Rental Management System</h4>
+                        <h5 class="font-yellow">Java, MySQL, JDBC</h5>
+                        <p class="font-semi-white margin-tb-30">This software project deals with car rental system where
+                            the user books
+                            a car and his/her data is stored in database(in this case MySQL). The software is connected
+                            with Java Netbeans using JDBC driver to get
+                            connection between the database and Java Netbeans. The system also offers discount in
+                            particular cars so that the user can easily afford rentals.This software project
+                            consists of effective and easy GUI to help the customers in easy bill calculation and
+                            providing efficient customer service.</p>
+                        <h6 class="margin-t-10"><a class="anchor"
+                                href="https://github.com/ApurvaBhaskar/Car-Rental-Management-System">View Project</a>
+                        </h6>
+
+                    </div><!-- experience -->
+
+                    <div class="experience margin-b-50">
+                        <h4>Fitness App</h4>
+                        <h5 class="font-yellow">Flutter</h5>
+                        <p class="font-semi-white margin-tb-30">An android app which records steps taken and other fitness parameters
+                            and displays it to the user. </p>
+                       <!--<h6 class="margin-t-10"><a class="anchor" href="#">View Project</a></h6>-->
+                       
+                    <div class="experience margin-b-50">
+                        <h4>Mask Detection</h4>
+                        <h5 class="font-yellow">YOLO, Jupyter Notebook</h5>
+                        <p class="font-semi-white margin-tb-30">Detects whether a person is wearing mask or not. </p>
+                        <!--<h6 class="margin-t-10"><a class="anchor" href="#">View Project</a></h6>-->
+
+                    <div class="experience margin-b-50">
+                        <h4>Covid-19 Dashboard</h4>
+                        <h5 class="font-yellow">Tableau</h5>
+                        <p class="font-semi-white margin-tb-30">Built a dashboard that shows the mortality rate, number
+                            of cases in each country, growth rate and many other factors along with a date filter. Used
+                            the dataset provided from European Union Open Data Portal.</p>
+                        <h6 class="margin-t-10"><a class="anchor"
+                                href="https://public.tableau.com/profile/apurva.chandra.bhaskar#!/vizhome/Covid-19Dashboard_15889330320840/COVID-19Dashboard">View
+                                Project</a></h6>
+
+                    </div><!-- experience -->
+
+                </div><!-- col-sm-8 -->
+            </div><!-- row -->
+        </div><!-- container -->
+
+    </section><!-- experience-section -->
+
+
+
+    <section class="education-section section">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-4">
+                    <div class="heading">
+                        <h3><b>Achievements</b></h3>
+                        <h4 class="font-lite-black"></h4>
+                    </div>
+                </div><!-- col-sm-4 -->
+                <div class="col-sm-8">
+                    <div class="education-wrapper">
+                        <div class="education margin-b-50">
+                            <h4><b>Microsoft Student Partner</b></h4>
+                            <h6 class="font-lite-black margin-t-10">2020-2021</h6>
+                            <p class="margin-tb-30">Beta level MSP.</p>
+                        </div><!-- education -->
+
+                        <div class="education margin-b-50">
+                            <h4><b>Build For Digital India Program Winner</b></h4>
+                            <h6 class="font-lite-black margin-t-10">Completed in 2017</h6>
+                            <p class="margin-tb-30">Selected under Build for Digital India program, an initiative by
+                                Google and Ministry of Electronics and Information Technology
+                                (MeitY).</p>
+                        </div><!-- education -->
+
+                        <div class="education margin-b-50">
+                            <h4><b>Intel Edge AI Scholarship Winner</b></h4>
+                            <h6 class="font-lite-black margin-t-10">Completed in 2015</h6>
+                            <p class="margin-tb-30">Won a scholarship for the Intel Edge AI foudnational course by Intel
+                                Corporation and Udacity.</p>
+                        </div><!-- education -->
+
+                        <div class="education margin-b-50">
+                            <h4><b>Nutanix Hybrid Cloud Scholarship Winner</b></h4>
+                            <h6 class="font-lite-black margin-t-10">Completed in 2015</h6>
+                            <p class="margin-tb-30">Won a scholarship for the Nutanix Hybrid Cloud foudnational course by Nutanix
+                               and Udacity.</p>
+                        </div><!-- education -->
+                    </div><!-- education-wrapper -->
+                </div><!-- col-sm-8 -->
+            </div><!-- row -->
+        </div><!-- container -->
+
+    </section><!-- about-section -->
+
+    <section class="about-section section">
+        <div class="container">
+            <div class="row">
+                <div class="col-sm-4">
+                    <div class="heading">
+                        <h3><b>Additional Experience</b></h3>
+                        <h6 class="font-lite-black">PROFESSIONAL PATH</h6>
+                    </div>
+                </div><!-- col-sm-4 -->
+                <div class="col-sm-8">
+                    <p class="margin-b-50">Organised a workshop on <b><a href="https://youtu.be/NMVuoiURJdg"
+                                target="_blank">Introduction to Machine Learning</a></b>
+                     where I presented about Linear Regression and its various applications.</p>
+                    <p class="margin-b-50">Participated in <a
+                            href="https://drive.google.com/file/d/1JsCEWNBdFA72Yg0m1wETnR8otRDo1QHv/view?usp=sharing"
+                            target="_blank">HackOn</a>,
+                            <a href="https://drive.google.com/file/d/1qaz68RbpDFK8QpQNU2fKvF8KgmhNeXYA/view?usp=sharing"
+                                target="_blank">HackforGood</a> and
+                            <a href="https://drive.google.com/file/d/18P0kLSab06CdrDaSn2CHxLp_5d2hKySq/view?usp=sharing"
+                                target="_blank">HackJaipur</a> hackathons.</p> 
+
+                    <div class="row">
+
+                    </div><!-- row -->
+                </div><!-- col-sm-8 -->
+            </div><!-- row -->
+        </div><!-- container -->
+    </section><!-- about-section -->
+	
+	<footer>
+		<p class="copyright">Template inspiration from: <a href="https://colorlib.com" target="_blank">Colorlib</a>
+
+		</p>
+
+
+	</footer>
+	
+	
+	<!-- SCIPTS -->
+	
+	<script src="common-js/jquery-3.2.1.min.js"></script>
+	
+	<script src="common-js/tether.min.js"></script>
+	
+	<script src="common-js/bootstrap.js"></script>
+	
+	<script src="common-js/isotope.pkgd.min.js"></script>
+	
+	<script src="common-js/jquery.waypoints.min.js"></script>
+	
+	<script src="common-js/progressbar.min.js"></script>
+	
+	<script src="common-js/jquery.fluidbox.min.js"></script>
+	
+	<script src="common-js/scripts.js"></script>
+	
+</body>
+</html>
