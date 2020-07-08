@@ -28,7 +28,7 @@
 <body>
     <header>
                     <a class="downlad-btn" href="https://drive.google.com/file/d/1-IASmoQbcfj5ecLfFKvYkm9tGyGyBjqS/view?usp=sharing">View Resume</a>
-                    </div><!-- container -->
+                    </div>
     </header>
 	
 	<section class="intro-section">
@@ -48,11 +48,11 @@
 							<li><a href="https://www.linkedin.com/in/apurva-bhaskar-bb0584181/"><i class="ion-social-linkedin"></i></a></li>
                             <li><a href="https://github.com/ApurvaBhaskar"><i class="ion-social-github"></i></a></li>
 						</ul>
-					</div><!-- intro -->
-				</div><!-- col-sm-8 -->
-			</div><!-- row -->
-		</div><!-- container -->
-	</section><!-- intro-section -->
+					</div>
+				</div>
+			</div>
+		</div>
+	</section>
 	
 	<section class="about-section section">
 		<div class="container">
@@ -62,7 +62,7 @@
 						<h3><b>About me</b></h3>
 						<h6 class="font-lite-black">PROFESSIONAL PATH</h6>
 					</div>
-				</div><!-- col-sm-4 -->
+				</div>
 				<div class="col-sm-8">
 					<p class="margin-b-50">I am a pre-final year undergraduate pursuing Bachelor of Technology in Computer Science
                         Engineering from SRM Institute of Science and Technology. I am a quick learner with an insatiable appetite
@@ -72,11 +72,11 @@
 					
 					<div class="row">
 					
-					</div><!-- row -->
-				</div><!-- col-sm-8 -->
-			</div><!-- row -->
-		</div><!-- container -->
-    </section><!-- about-section -->
+					</div>
+				</div>
+			</div>
+		</div>
+    </section>
     
     <img src="images/slider-4-1920x600.png">
 
@@ -172,7 +172,7 @@
 						<h3><b>Work Experience</b></h3>
 						<h6 class="font-lite-black">PREVIOUS INTERNSHIP</h6>
 					</div>
-				</div><!-- col-sm-4 -->
+				</div>
 				<div class="col-sm-8">
 				
 					<div class="experience margin-b-50">
@@ -182,13 +182,13 @@
 					        <p class="font-semi-white margin-tb-30">Worked with the database team to keep track of servers and
 					            database of various clients.
 					            Visited data centers of Ericsson India, UIDAI. </p>
-					</div><!-- experience -->
+					</div>
 					
-				</div><!-- col-sm-8 -->
-			</div><!-- row -->
-		</div><!-- container -->
+				</div>
+			</div>
+		</div>
 		
-	</section><!-- experience-section -->
+	</section>
 	
 	<section class="education-section section">
 		<div class="container">
@@ -198,33 +198,32 @@
 						<h3><b>Education</b></h3>
 						<h6 class="font-lite-black">ACADEMIC CAREER</h6>
 					</div>
-				</div><!-- col-sm-4 -->
+				</div>
 				<div class="col-sm-8">
 					<div class="education-wrapper">
 						<div class="education margin-b-50">
 							<h4><b>Bachelor of Technology in Computer Science Enginnering</b></h4>
 							<h5 class="font-yellow"><b>SRM Institute of Science and Technology</b></h5>
 							<h6 class="font-lite-black margin-t-10">2017-2021</h6>
-							<p class="margin-tb-30">CGPA - 7.60/10 </p>
-						</div><!-- education -->
+							<p class="margin-tb-30">CGPA - 8.75/10 </p>
+						</div>
 						
 						<div class="education margin-b-50">
 							<h4><b>Senior Secondary</b></h4>
 							<h5 class="font-yellow"><b>N.K.Bagrodia Public School</b></h5>
 							<h6 class="font-lite-black margin-t-10">Completed in 2017</h6>
 							<p class="margin-tb-30">Percentage - 86%</p>
-						</div><!-- education -->
+						</div>
 						
 						<div class="education margin-b-50">
 							<h4><b>Secondary</b></h4>
 							<h5 class="font-yellow"><b>N.K.Bagrodia Public School</b></h5>
 							<h6 class="font-lite-black margin-t-10">Completed in 2015</h6>
 							<p class="margin-tb-30">CGPA - 9.4/10 </p>
-						</div><!-- education -->
-					</div><!-- education-wrapper -->
-				</div><!-- col-sm-8 -->
-			</div><!-- row -->
-		</div><!-- container -->
+						</div>
+				</div>
+			</div>
+		</div>
 		
     </section>
      
@@ -236,7 +235,7 @@
                         <h3><b>Projects</b></h3>
                         <h6 class="font-lite-black">I'VE WORKED ON</h6>
                     </div>
-                </div><!-- col-sm-4 -->
+                </div>
                 <div class="col-sm-8">
 
                     <div class="experience margin-b-50">
@@ -247,7 +246,7 @@
                         <h6 class="margin-t-10"><a class="anchor"
                                 href="https://github.com/ApurvaBhaskar/Stock-Price-Prediction">View Project</a></h6>
 
-                    </div><!-- experience -->
+                    </div>
 
                     <div class="experience margin-b-50">
                         <h4>Classification of Handwritten Digits using Google Tensorflow with Python</h4>
@@ -259,7 +258,7 @@
                             our ANN achieves quite low classification error. </p>
                         <!--<h6 class="margin-t-10"><a class="anchor" href="#">View Project</a></h6>-->
 
-                    </div><!-- experience -->
+                    </div>
 
                     <div class="experience margin-b-50">
                         <h4>Car Rental Management System</h4>
@@ -276,7 +275,7 @@
                                 href="https://github.com/ApurvaBhaskar/Car-Rental-Management-System">View Project</a>
                         </h6>
 
-                    </div><!-- experience -->
+                    </div>
 
                     <div class="experience margin-b-50">
                         <h4>Fitness App</h4>
@@ -301,13 +300,13 @@
                                 href="https://public.tableau.com/profile/apurva.chandra.bhaskar#!/vizhome/Covid-19Dashboard_15889330320840/COVID-19Dashboard">View
                                 Project</a></h6>
 
-                    </div><!-- experience -->
+                    </div>
 
-                </div><!-- col-sm-8 -->
-            </div><!-- row -->
-        </div><!-- container -->
+                </div>
+            </div>
+        </div>
 
-    </section><!-- experience-section -->
+    </section>
 
 
 
@@ -319,14 +318,14 @@
                         <h3><b>Achievements</b></h3>
                         <h4 class="font-lite-black"></h4>
                     </div>
-                </div><!-- col-sm-4 -->
+                </div>
                 <div class="col-sm-8">
                     <div class="education-wrapper">
                         <div class="education margin-b-50">
                             <h4><b>Microsoft Student Partner</b></h4>
                             <h6 class="font-lite-black margin-t-10">2020-2021</h6>
                             <p class="margin-tb-30">Beta level MSP.</p>
-                        </div><!-- education -->
+                        </div>
 
                         <div class="education margin-b-50">
                             <h4><b>Build For Digital India Program Winner</b></h4>
@@ -334,27 +333,26 @@
                             <p class="margin-tb-30">Selected under Build for Digital India program, an initiative by
                                 Google and Ministry of Electronics and Information Technology
                                 (MeitY).</p>
-                        </div><!-- education -->
+                        </div>
 
                         <div class="education margin-b-50">
                             <h4><b>Intel Edge AI Scholarship Winner</b></h4>
                             <h6 class="font-lite-black margin-t-10">Completed in 2015</h6>
                             <p class="margin-tb-30">Won a scholarship for the Intel Edge AI foudnational course by Intel
                                 Corporation and Udacity.</p>
-                        </div><!-- education -->
+                        </div>
 
                         <div class="education margin-b-50">
                             <h4><b>Nutanix Hybrid Cloud Scholarship Winner</b></h4>
                             <h6 class="font-lite-black margin-t-10">Completed in 2015</h6>
                             <p class="margin-tb-30">Won a scholarship for the Nutanix Hybrid Cloud foudnational course by Nutanix
                                and Udacity.</p>
-                        </div><!-- education -->
-                    </div><!-- education-wrapper -->
-                </div><!-- col-sm-8 -->
-            </div><!-- row -->
-        </div><!-- container -->
-
-    </section><!-- about-section -->
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 
     <section class="about-section section">
         <div class="container">
@@ -364,7 +362,7 @@
                         <h3><b>Additional Experience</b></h3>
                         <h6 class="font-lite-black">PROFESSIONAL PATH</h6>
                     </div>
-                </div><!-- col-sm-4 -->
+                </div>
                 <div class="col-sm-8">
                     <p class="margin-b-50">Organised a workshop on <b><a href="https://youtu.be/NMVuoiURJdg"
                                 target="_blank">Introduction to Machine Learning</a></b>
@@ -379,11 +377,11 @@
 
                     <div class="row">
 
-                    </div><!-- row -->
-                </div><!-- col-sm-8 -->
-            </div><!-- row -->
-        </div><!-- container -->
-    </section><!-- about-section -->
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
 	
 	<footer>
 		<p class="copyright">Template inspiration from: <a href="https://colorlib.com" target="_blank">Colorlib</a>
@@ -394,7 +392,7 @@
 	</footer>
 	
 	
-	<!-- SCIPTS -->
+	<!-- SCRIPTS -->
 	
 	<script src="common-js/jquery-3.2.1.min.js"></script>
 	
