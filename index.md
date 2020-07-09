@@ -104,7 +104,7 @@
                     &nbsp; <h6 class="expert">Clustering</h6>
                     &nbsp; <h6 class="expert">Classification</h6>
                     <p class="margin-tb-30">I have an intermediate level proficiency in Machine Learning and its models and
-                        currently working on expanding my skillset.
+                        currently working on expanding my skillset to learn about Support Vector Machine.
                     </p>
                 </div>
 
@@ -366,7 +366,7 @@
                 <div class="col-sm-8">
                     <p class="margin-b-50">Organised a workshop on <b><a href="https://youtu.be/NMVuoiURJdg"
                                 target="_blank">Introduction to Machine Learning</a></b>
-                     where I presented about Linear Regression and its various applications.</p>
+                     where I presented a talk about Linear Regression and its various applications.</p>
                     <p class="margin-b-50">Participated in <a
                             href="https://drive.google.com/file/d/1JsCEWNBdFA72Yg0m1wETnR8otRDo1QHv/view?usp=sharing"
                             target="_blank">HackOn</a>,
